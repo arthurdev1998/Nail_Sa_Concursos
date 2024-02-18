@@ -1,0 +1,6 @@
+@Nail.Api_HostAddress = http://localhost:5063
+
+GET {{Nail.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
